@@ -105,5 +105,7 @@ The developed system can assist retail organizations in improving inventory plan
 Deepika B R
 
 B.Tech Information Technology
+
 Aspiring Data Scientist
+
 Agni College of Technology
