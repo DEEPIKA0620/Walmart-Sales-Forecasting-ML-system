@@ -74,8 +74,11 @@ An ensemble learning model that combines multiple decision trees to improve pred
 Model Performance
 Model	MAE	RMSE	R² Score
 Linear Regression	14,551.84	21,789.22	0.0896
+
 Decision Tree Regressor	1,871.06	4,860.89	0.9547
+
 Random Forest Regressor	1,487.16	3,798.63	0.9723
+
 Key Insights
 Store characteristics significantly influence weekly sales performance.
 Promotional markdowns have a noticeable impact on sales.
